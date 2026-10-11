@@ -6,7 +6,7 @@
 
 本仓库用于分发安装包和使用说明，不包含应用代码。
 
-[下载安装包](https://github.com/huisedediao/jianyu_input/releases/download/v0.1.3-dev-20261011/jianyu-input-0.1.3-dev.apk) · [查看所有版本](https://github.com/huisedediao/jianyu_input/releases)
+[下载安装包](https://github.com/huisedediao/jianyu_input/releases/download/v0.1.3-dev-20261011-haptics/jianyu-input-0.1.3-dev.apk) · [查看所有版本](https://github.com/huisedediao/jianyu_input/releases)
 
 ## 下载与安装
 
@@ -33,7 +33,7 @@
 - **快捷符号**：部分字母、数字和标点支持上滑或长按输入上方标注的符号。
 - **光标移动**：按住空格上下左右滑动，同一次按住期间可以连续转向，例如先上再左。
 - **换行**：最右下角的操作键长按或上滑换行；中文模式下有未确认字母时，短按先输入字母。
-- **外观与反馈**：支持浅色、深色、键高、震动强度和按键音量设置。
+- **外观与反馈**：支持浅色、深色、键高、震动强度和按键音量设置。普通候选、AI 候选与展开网格的点击和长按均支持震动，普通候选和 AI 候选上下滑动确认时也支持震动，沿用键盘的震动开关和强度。
 
 普通候选栏与 AI 整句栏：单击输入原文，上滑输入译文，下滑或长按打开详情。展开网格的上下滑动只滚动列表，避免翻页时误输入译文。
 
