@@ -6,11 +6,11 @@
 
 本仓库用于分发安装包和使用说明，不包含应用代码。
 
-[下载安装包](https://github.com/huisedediao/jianyu_input/releases/download/v0.1.3-dev-20261011-haptics/jianyu-input-0.1.3-dev.apk) · [查看所有版本](https://github.com/huisedediao/jianyu_input/releases)
+[下载安装包](https://github.com/huisedediao/jianyu_input/releases/download/v0.1.3-20261011-haptics/jianyu-input-0.1.3.apk) · [查看所有版本](https://github.com/huisedediao/jianyu_input/releases)
 
 ## 下载与安装
 
-当前版本：**0.1.3-dev**，更新日期：**2026-10-11**。这是开发测试版。
+当前版本：**0.1.3**，更新日期：**2026-10-11**。
 
 - 系统要求：Android 8.0 或更高版本。
 - 支持架构：ARM64、x86_64。
