@@ -62,4 +62,4 @@
 
 遇到问题可以在 [Issues](https://github.com/huisedediao/jianyu_input/issues) 中反馈，并附上手机型号、Android 版本、应用版本和复现步骤。请勿提交 API Key 或其他私密内容。
 
-简语基于 [Qingjian](https://github.com/qingjian-team/qingjian) 开发，采用 GPL-3.0-or-later 许可。项目源码见 [Gitee 仓库](https://gitee.com/huisedediao/qingjian_phone)，许可正文见 [LICENSE](LICENSE)。
+简语基于 [Qingjian](https://github.com/qingjian-team/qingjian) 开发，采用 GPL-3.0-or-later 许可。许可正文见 [LICENSE](LICENSE)。
