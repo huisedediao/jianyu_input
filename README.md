@@ -6,7 +6,7 @@
 
 本仓库用于分发安装包和使用说明，不包含应用代码。
 
-[下载安装包](https://github.com/huisedediao/jianyu_input/releases/download/v0.1.3-20261012-ai-top/jianyu-input-0.1.3.apk) · [查看所有版本](https://github.com/huisedediao/jianyu_input/releases)
+[下载安装包](https://github.com/huisedediao/jianyu_input/releases/download/v0.1.3-20261012-more-candidates/jianyu-input-0.1.3.apk) · [查看所有版本](https://github.com/huisedediao/jianyu_input/releases)
 
 ## 下载与安装
 
@@ -28,7 +28,7 @@
 - **三种输入模式**：中（拼音）、英（英文补全）、A（字母直输）。
 - **双语候选**：中文候选搭配英文释义，英文候选搭配中文释义。
 - **AI 翻译与词典详情**：翻译当前文本，补充释义、音标和例句；支持系统语音朗读和生词收藏。
-- **更多候选**：展开为四列网格，上下滑动浏览，单击输入原文，长按查看详情。
+- **更多候选**：展开为四列网格，先显示 40 项，滚动接近底部时每批追加 40 项，保留滚动位置；中文展示引擎本次返回的候选，通常最多 500 项，英文补全最多 500 项。单击输入原文，长按查看详情。
 - **常用语与快捷短语**：两套独立列表。常用语直接点选输入；快捷短语通过自定义缩写调用，均不预置内容。
 - **快捷符号**：部分字母、数字和标点支持上滑或长按输入上方标注的符号。
 - **光标移动**：按住空格上下左右滑动，同一次按住期间可以连续转向，例如先上再左。
